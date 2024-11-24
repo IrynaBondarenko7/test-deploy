@@ -1,0 +1,55 @@
+{
+  "links": [
+    { "name": "Secret Projects", "path": "/projects" },
+    { "name": "Secret Services", "path": "/services" },
+    { "name": "Hire me", "path": "/hireme" },
+    { "name": "Home", "path": "/" }
+  ],
+  "services": [
+    {
+      "name": "React/Next.js Applications",
+      "description": "Building modern, high-performance web applications using React and Next.js. I specialize in creating scalable, SEO-friendly, and user-focused solutions tailored to your business needs."
+    },
+    {
+      "name": "Landing Pages",
+      "description": "Designing and developing visually appealing and conversion-optimized landing pages. I ensure clean code, fast load times, and a seamless user experience to maximize your audience engagement."
+    },
+    {
+      "name": "Responsive Web Design",
+      "description": "Creating responsive websites that look stunning and function flawlessly on all devices. From desktops to smartphones, I ensure your site adapts smoothly and provides an excellent user experience."
+    },
+    {
+      "name": "Full-Stack Applications",
+      "description": "Developing robust full-stack applications using modern technologies like Node.js, Express, MongoDB and  PostgreSQL. I handle everything from front-end interfaces to back-end systems, ensuring a complete and efficient solution."
+    }
+  ],
+  "icons": {
+    "icon": [
+      {
+        "url": "/icons/favicon.ico"
+      },
+      {
+        "url": "/icons/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "url": "/icons/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "url": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "url": "/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "shortcut": "/icons/favicon.ico",
+    "apple": "/icons/apple-touch-icon.png"
+  }
+}
